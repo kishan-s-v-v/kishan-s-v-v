@@ -12,7 +12,3 @@ I'm currently working on: A real-time analysis project focusing on scams in the 
 ![](https://nirzak-streak-stats.vercel.app/?user=kishan-s-v-v&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishan-s-v-v&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=kishan-s-v-v&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
